@@ -11641,6 +11641,11 @@
 			<Item>200.000000,283.000000</Item>
 		</Attribute>
 	</Object>
+	<Object type="cGUIVectorVector" id="20001446">
+		<Attribute name="msVector" type="sVectorXZ" elements="1">
+			<Item>200.000000,233.000000</Item>
+		</Attribute>
+	</Object>
 	<Object type="cGUIVectorVector" id="20001449">
 		<Attribute name="msVector" type="sVectorXZ" elements="1">
 			<Item>450.000000,283.000000</Item>
@@ -23251,6 +23256,27 @@
 		</Pointer>
 		<Attribute name="mcString" type="cFxString8" elements="1">
 			<Item>gotoSave</Item>
+		</Attribute>
+		<Pointer name="mpWidget" type="cGUIWidget" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Enum name="meBlip" type="eBoolean" elements="1">
+			<Item>eTrue</Item>
+		</Enum>
+	</Object>
+	<Object type="cGUIEvent" id="2144912494">
+		<Enum name="meEvent" type="eGUIEvent" elements="1">
+			<Item>eGUIEvent_OnActivated</Item>
+		</Enum>
+		<Pointer name="mpSoundBase" type="cSoundBase" elements="1">
+			<Item>1800002382</Item>
+		</Pointer>
+		<Pointer name="mpParameter" type="cGUIMetaNumber" elements="2">
+			<Item>0</Item>
+			<Item>0</Item>
+		</Pointer>
+		<Attribute name="mcString" type="cFxString8" elements="1">
+			<Item>gotoSaveClone</Item>
 		</Attribute>
 		<Pointer name="mpWidget" type="cGUIWidget" elements="1">
 			<Item>0</Item>
@@ -53300,6 +53326,65 @@
 		</Pointer>
 		<Pointer name="mpEventHandler" type="cGUIEventHandler" elements="1">
 			<Item>2144912040</Item>
+		</Pointer>
+	</Object>
+	<Object type="cGUIButtonWidget" id="2144912175">
+		<Pointer name="mpSpriteSets" type="cGUIButtonSpriteSet" elements="4">
+			<Item>0</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpDisabled" type="cSprite" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpNormal" type="cSprite" elements="1">
+			<Item>2144912004</Item>
+		</Pointer>
+		<Pointer name="mpSelected" type="cSprite" elements="1">
+			<Item>20001567</Item>
+		</Pointer>
+		<Pointer name="mpActivated" type="cSprite" elements="1">
+			<Item>20001567</Item>
+		</Pointer>
+		<Pointer name="mpLabel" type="cGUITextBoxWidget" elements="1">
+			<Item>2144912032</Item>
+		</Pointer>
+		<Pointer name="mpButtonActive" type="cGUIMetaBool" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpActiveTimeout" type="cGUIMetaNumber" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpSelectionSize" type="cGUIMetaVector" elements="1">
+			<Item>840001439</Item>
+		</Pointer>
+		<Pointer name="mpActiveSet" type="cGUIMetaNumber" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpSprite" type="cSprite" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpScale" type="cGUIMetaScale" elements="1">
+			<Item>840000068</Item>
+		</Pointer>
+		<Pointer name="mpAngle" type="cGUIMetaNumber" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpPos" type="cGUIMetaVector" elements="1">
+			<Item>20001446</Item>
+		</Pointer>
+		<Pointer name="mpColour" type="cGUIMetaColour" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Enum name="meZDepth" type="eGUIZPlane" elements="1">
+			<Item>eGUIZPlane_30</Item>
+		</Enum>
+		<Pointer name="mpActive" type="cGUIMetaBool" elements="1">
+			<Item>0</Item>
+		</Pointer>
+		<Pointer name="mpEventHandler" type="cGUIEventHandler" elements="1">
+			<Item>2144912041</Item>
 		</Pointer>
 	</Object>
 	<Object type="cGUIButtonWidget" id="2144912174">
@@ -114954,6 +115039,18 @@
 			<Item>2144912491</Item>
 			<Item>2144912492</Item>
 			<Item>2144912493</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+			<Item>0</Item>
+		</Pointer>
+	</Object>
+	<Object type="cGUIEventHandler" id="2144912041">
+		<Pointer name="mpEventArray" type="cGUIEvent" elements="8">
+			<Item>2144912491</Item>
+			<Item>2144912492</Item>
+			<Item>2144912494</Item>
 			<Item>0</Item>
 			<Item>0</Item>
 			<Item>0</Item>

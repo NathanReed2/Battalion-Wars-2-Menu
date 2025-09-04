@@ -14,6 +14,20 @@ function Main(owner)
 			PushPageStack("MapPre")
 		end
 	end
+	function tableData.gotoSaveClone()
+		-- Cloned campaign button with custom logic
+		-- This can load different content without interrupting the original button
+		if GetLevelsDone() == 0 then
+			SelectedLevel = 1
+			SelectedCampaign = 1
+			GlobeSetTarget(4)
+			SetMissionStatus(GAMESTATUS.TRAINING)
+			PushPageStack("CutsceneIn")
+		else
+			MapPreFade(true)
+			PushPageStack("MapPre")
+		end
+	end
 	function tableData.gotoMP()
 		MPProfileLoading = true
 		PushPageStack(GetMPPageFromCode())
