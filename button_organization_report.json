@@ -1,0 +1,5937 @@
+{
+  "summary": {
+    "total_buttons": 213,
+    "total_navigation_functions": 148,
+    "total_pages": 96,
+    "xml_file": "Frontend2_Level.xml",
+    "lua_files_analyzed": 96
+  },
+  "buttons": [
+    {
+      "id": "20001623",
+      "name": "Button_20001623",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912504"
+      ]
+    },
+    {
+      "id": "20001633",
+      "name": "Button_20001633",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912506"
+      ]
+    },
+    {
+      "id": "20001653",
+      "name": "Button_20001653",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912508"
+      ]
+    },
+    {
+      "id": "20001744",
+      "name": "Button_20001744",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001663"
+      ]
+    },
+    {
+      "id": "20001752",
+      "name": "Button_20001752",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001763"
+      ]
+    },
+    {
+      "id": "20001785",
+      "name": "Button_20001785",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001701"
+      ]
+    },
+    {
+      "id": "20001793",
+      "name": "Button_20001793",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001699"
+      ]
+    },
+    {
+      "id": "20001795",
+      "name": "Button_20001795",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001672"
+      ]
+    },
+    {
+      "id": "20001796",
+      "name": "Button_20001796",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001700"
+      ]
+    },
+    {
+      "id": "20001797",
+      "name": "Button_20001797",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001672"
+      ]
+    },
+    {
+      "id": "20001800",
+      "name": "Button_20001800",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001701"
+      ]
+    },
+    {
+      "id": "20001801",
+      "name": "Button_20001801",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001699"
+      ]
+    },
+    {
+      "id": "20001802",
+      "name": "Button_20001802",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001700"
+      ]
+    },
+    {
+      "id": "20001803",
+      "name": "Button_20001803",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001663"
+      ]
+    },
+    {
+      "id": "20001823",
+      "name": "Button_20001823",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001852"
+      ]
+    },
+    {
+      "id": "20001834",
+      "name": "Button_20001834",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001840"
+      ]
+    },
+    {
+      "id": "20001836",
+      "name": "Button_20001836",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001841"
+      ]
+    },
+    {
+      "id": "20001838",
+      "name": "Button_20001838",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001842"
+      ]
+    },
+    {
+      "id": "20001843",
+      "name": "Button_20001843",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001845"
+      ]
+    },
+    {
+      "id": "20001846",
+      "name": "Button_20001846",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001848"
+      ]
+    },
+    {
+      "id": "20001849",
+      "name": "Button_20001849",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001851"
+      ]
+    },
+    {
+      "id": "20001854",
+      "name": "Button_20001854",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001856"
+      ]
+    },
+    {
+      "id": "20001857",
+      "name": "Button_20001857",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001859"
+      ]
+    },
+    {
+      "id": "20001860",
+      "name": "Button_20001860",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001862"
+      ]
+    },
+    {
+      "id": "20001863",
+      "name": "Button_20001863",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001865"
+      ]
+    },
+    {
+      "id": "20001867",
+      "name": "Button_20001867",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001871"
+      ]
+    },
+    {
+      "id": "20001868",
+      "name": "Button_20001868",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001873"
+      ]
+    },
+    {
+      "id": "20001869",
+      "name": "Button_20001869",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001875"
+      ]
+    },
+    {
+      "id": "20001877",
+      "name": "Button_20001877",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001883"
+      ]
+    },
+    {
+      "id": "20001878",
+      "name": "Button_20001878",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001885"
+      ]
+    },
+    {
+      "id": "20001879",
+      "name": "Button_20001879",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001887"
+      ]
+    },
+    {
+      "id": "20001880",
+      "name": "Button_20001880",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001889"
+      ]
+    },
+    {
+      "id": "20001881",
+      "name": "Button_20001881",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001891"
+      ]
+    },
+    {
+      "id": "20001932",
+      "name": "Button_20001932",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912558"
+      ]
+    },
+    {
+      "id": "20001936",
+      "name": "Button_20001936",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912548"
+      ]
+    },
+    {
+      "id": "20001948",
+      "name": "Button_20001948",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002122"
+      ]
+    },
+    {
+      "id": "20001950",
+      "name": "Button_20001950",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20001969"
+      ]
+    },
+    {
+      "id": "20001951",
+      "name": "Button_20001951",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002120"
+      ]
+    },
+    {
+      "id": "20001987",
+      "name": "Button_20001987",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20001996",
+      "name": "Button_20001996",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002031",
+      "name": "Button_20002031",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002032",
+      "name": "Button_20002032",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002034",
+      "name": "Button_20002034",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002057",
+      "name": "Button_20002057",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002058",
+      "name": "Button_20002058",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002060",
+      "name": "Button_20002060",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "20002073",
+      "name": "Button_20002073",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002082"
+      ]
+    },
+    {
+      "id": "20002075",
+      "name": "Button_20002075",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002084"
+      ]
+    },
+    {
+      "id": "20002077",
+      "name": "Button_20002077",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002086"
+      ]
+    },
+    {
+      "id": "20002089",
+      "name": "Button_20002089",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002082"
+      ]
+    },
+    {
+      "id": "20002090",
+      "name": "Button_20002090",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002091"
+      ]
+    },
+    {
+      "id": "20002094",
+      "name": "Button_20002094",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002084"
+      ]
+    },
+    {
+      "id": "20002095",
+      "name": "Button_20002095",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002091"
+      ]
+    },
+    {
+      "id": "20002125",
+      "name": "Button_20002125",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912781"
+      ]
+    },
+    {
+      "id": "20002126",
+      "name": "Button_20002126",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912784"
+      ]
+    },
+    {
+      "id": "20002134",
+      "name": "Button_20002134",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912776"
+      ]
+    },
+    {
+      "id": "20002151",
+      "name": "Button_20002151",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "20002154"
+      ]
+    },
+    {
+      "id": "50036813",
+      "name": "Button_50036813",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002383"
+      ]
+    },
+    {
+      "id": "250012238",
+      "name": "Button_250012238",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012242"
+      ]
+    },
+    {
+      "id": "250012276",
+      "name": "Button_250012276",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012282"
+      ]
+    },
+    {
+      "id": "250012291",
+      "name": "Button_250012291",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012295"
+      ]
+    },
+    {
+      "id": "250012292",
+      "name": "Button_250012292",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012297"
+      ]
+    },
+    {
+      "id": "250012621",
+      "name": "Button_250012621",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012634"
+      ]
+    },
+    {
+      "id": "250012623",
+      "name": "Button_250012623",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012638"
+      ]
+    },
+    {
+      "id": "250012624",
+      "name": "Button_250012624",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "250012640"
+      ]
+    },
+    {
+      "id": "310002228",
+      "name": "Button_310002228",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002232"
+      ]
+    },
+    {
+      "id": "310002242",
+      "name": "Button_310002242",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002246"
+      ]
+    },
+    {
+      "id": "310002256",
+      "name": "Button_310002256",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002260"
+      ]
+    },
+    {
+      "id": "310002270",
+      "name": "Button_310002270",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002274"
+      ]
+    },
+    {
+      "id": "310002277",
+      "name": "Button_310002277",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "310002291",
+      "name": "Button_310002291",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002295"
+      ]
+    },
+    {
+      "id": "310002298",
+      "name": "Button_310002298",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002302"
+      ]
+    },
+    {
+      "id": "310002310",
+      "name": "Button_310002310",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002318"
+      ]
+    },
+    {
+      "id": "310002312",
+      "name": "Button_310002312",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002321"
+      ]
+    },
+    {
+      "id": "310002411",
+      "name": "Button_310002411",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002415"
+      ]
+    },
+    {
+      "id": "310002464",
+      "name": "Button_310002464",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "310002466",
+      "name": "Button_310002466",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "310002491",
+      "name": "Button_310002491",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002497"
+      ]
+    },
+    {
+      "id": "310002505",
+      "name": "Button_310002505",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002507"
+      ]
+    },
+    {
+      "id": "310002600",
+      "name": "Button_310002600",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002604"
+      ]
+    },
+    {
+      "id": "310002606",
+      "name": "Button_310002606",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002610"
+      ]
+    },
+    {
+      "id": "310002613",
+      "name": "Button_310002613",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002617"
+      ]
+    },
+    {
+      "id": "310002622",
+      "name": "Button_310002622",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002625"
+      ]
+    },
+    {
+      "id": "310002628",
+      "name": "Button_310002628",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002632"
+      ]
+    },
+    {
+      "id": "310002656",
+      "name": "Button_310002656",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002661"
+      ]
+    },
+    {
+      "id": "310002663",
+      "name": "Button_310002663",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002667"
+      ]
+    },
+    {
+      "id": "310002682",
+      "name": "Button_310002682",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002686"
+      ]
+    },
+    {
+      "id": "310002688",
+      "name": "Button_310002688",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002690"
+      ]
+    },
+    {
+      "id": "310002692",
+      "name": "Button_310002692",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002693"
+      ]
+    },
+    {
+      "id": "310002698",
+      "name": "Button_310002698",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "310002699",
+      "name": "Button_310002699",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912587"
+      ]
+    },
+    {
+      "id": "310002731",
+      "name": "Button_310002731",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002387"
+      ]
+    },
+    {
+      "id": "310002845",
+      "name": "Button_310002845",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002857"
+      ]
+    },
+    {
+      "id": "310002848",
+      "name": "Button_310002848",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002859"
+      ]
+    },
+    {
+      "id": "310002851",
+      "name": "Button_310002851",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002861"
+      ]
+    },
+    {
+      "id": "310002854",
+      "name": "Button_310002854",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002863"
+      ]
+    },
+    {
+      "id": "310100007",
+      "name": "Button_310100007",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100011"
+      ]
+    },
+    {
+      "id": "310100121",
+      "name": "Button_310100121",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144914611"
+      ]
+    },
+    {
+      "id": "310100153",
+      "name": "Button_310100153",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100173"
+      ]
+    },
+    {
+      "id": "310100160",
+      "name": "Button_310100160",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100175"
+      ]
+    },
+    {
+      "id": "310100165",
+      "name": "Button_310100165",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100177"
+      ]
+    },
+    {
+      "id": "310100179",
+      "name": "Button_310100179",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100183"
+      ]
+    },
+    {
+      "id": "540000495",
+      "name": "Button_540000495",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912500"
+      ]
+    },
+    {
+      "id": "540000505",
+      "name": "Button_540000505",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912502"
+      ]
+    },
+    {
+      "id": "780000085",
+      "name": "Button_780000085",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912919"
+      ]
+    },
+    {
+      "id": "780000089",
+      "name": "Button_780000089",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912921"
+      ]
+    },
+    {
+      "id": "780000097",
+      "name": "Button_780000097",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912923"
+      ]
+    },
+    {
+      "id": "780000099",
+      "name": "Button_780000099",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912925"
+      ]
+    },
+    {
+      "id": "780000101",
+      "name": "Button_780000101",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912927"
+      ]
+    },
+    {
+      "id": "780000104",
+      "name": "Button_780000104",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912917"
+      ]
+    },
+    {
+      "id": "780000107",
+      "name": "Button_780000107",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912742"
+      ]
+    },
+    {
+      "id": "780000109",
+      "name": "Button_780000109",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912747"
+      ]
+    },
+    {
+      "id": "780000111",
+      "name": "Button_780000111",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912750"
+      ]
+    },
+    {
+      "id": "780000113",
+      "name": "Button_780000113",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912753"
+      ]
+    },
+    {
+      "id": "780000115",
+      "name": "Button_780000115",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912756"
+      ]
+    },
+    {
+      "id": "780000175",
+      "name": "Button_780000175",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912704"
+      ]
+    },
+    {
+      "id": "780000241",
+      "name": "Button_780000241",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "780000249",
+      "name": "Button_780000249",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912829"
+      ]
+    },
+    {
+      "id": "780000255",
+      "name": "Button_780000255",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912830"
+      ]
+    },
+    {
+      "id": "780000263",
+      "name": "Button_780000263",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912831"
+      ]
+    },
+    {
+      "id": "780000269",
+      "name": "Button_780000269",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912832"
+      ]
+    },
+    {
+      "id": "780000275",
+      "name": "Button_780000275",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912833"
+      ]
+    },
+    {
+      "id": "780000552",
+      "name": "Button_780000552",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912738"
+      ]
+    },
+    {
+      "id": "780000575",
+      "name": "Button_780000575",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913684"
+      ]
+    },
+    {
+      "id": "780000579",
+      "name": "Button_780000579",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912567"
+      ]
+    },
+    {
+      "id": "780000868",
+      "name": "Button_780000868",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913076"
+      ]
+    },
+    {
+      "id": "780001064",
+      "name": "Button_780001064",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912738"
+      ]
+    },
+    {
+      "id": "780001071",
+      "name": "Button_780001071",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912738"
+      ]
+    },
+    {
+      "id": "830000511",
+      "name": "Button_830000511",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002396"
+      ]
+    },
+    {
+      "id": "830000549",
+      "name": "Button_830000549",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002393"
+      ]
+    },
+    {
+      "id": "830000550",
+      "name": "Button_830000550",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002390"
+      ]
+    },
+    {
+      "id": "830000551",
+      "name": "Button_830000551",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002383"
+      ]
+    },
+    {
+      "id": "830000552",
+      "name": "Button_830000552",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002387"
+      ]
+    },
+    {
+      "id": "830000553",
+      "name": "Button_830000553",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002383"
+      ]
+    },
+    {
+      "id": "830000554",
+      "name": "Button_830000554",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002381"
+      ]
+    },
+    {
+      "id": "830000555",
+      "name": "Button_830000555",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002396"
+      ]
+    },
+    {
+      "id": "830000556",
+      "name": "Button_830000556",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002393"
+      ]
+    },
+    {
+      "id": "830000557",
+      "name": "Button_830000557",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002390"
+      ]
+    },
+    {
+      "id": "830000558",
+      "name": "Button_830000558",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002387"
+      ]
+    },
+    {
+      "id": "830000559",
+      "name": "Button_830000559",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002381"
+      ]
+    },
+    {
+      "id": "830000560",
+      "name": "Button_830000560",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002396"
+      ]
+    },
+    {
+      "id": "830000561",
+      "name": "Button_830000561",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002393"
+      ]
+    },
+    {
+      "id": "830000562",
+      "name": "Button_830000562",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002390"
+      ]
+    },
+    {
+      "id": "830000808",
+      "name": "Button_830000808",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "830000841"
+      ]
+    },
+    {
+      "id": "830000809",
+      "name": "Button_830000809",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "830000844"
+      ]
+    },
+    {
+      "id": "840000081",
+      "name": "Button_840000081",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840000132",
+      "name": "Button_840000132",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002625"
+      ]
+    },
+    {
+      "id": "840000204",
+      "name": "Button_840000204",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840000215",
+      "name": "Button_840000215",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000219"
+      ]
+    },
+    {
+      "id": "840000345",
+      "name": "Button_840000345",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000346"
+      ]
+    },
+    {
+      "id": "840000351",
+      "name": "Button_840000351",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000355"
+      ]
+    },
+    {
+      "id": "840000357",
+      "name": "Button_840000357",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000358"
+      ]
+    },
+    {
+      "id": "840000412",
+      "name": "Button_840000412",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840000418",
+      "name": "Button_840000418",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840000510",
+      "name": "Button_840000510",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000519"
+      ]
+    },
+    {
+      "id": "840000542",
+      "name": "Button_840000542",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000545"
+      ]
+    },
+    {
+      "id": "840000563",
+      "name": "Button_840000563",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000569"
+      ]
+    },
+    {
+      "id": "840000646",
+      "name": "Button_840000646",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000650"
+      ]
+    },
+    {
+      "id": "840000667",
+      "name": "Button_840000667",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000671"
+      ]
+    },
+    {
+      "id": "840000801",
+      "name": "Button_840000801",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000939"
+      ]
+    },
+    {
+      "id": "840000827",
+      "name": "Button_840000827",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000932"
+      ]
+    },
+    {
+      "id": "840000836",
+      "name": "Button_840000836",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000947"
+      ]
+    },
+    {
+      "id": "840000838",
+      "name": "Button_840000838",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000944"
+      ]
+    },
+    {
+      "id": "840000840",
+      "name": "Button_840000840",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000949"
+      ]
+    },
+    {
+      "id": "840000842",
+      "name": "Button_840000842",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000951"
+      ]
+    },
+    {
+      "id": "840000845",
+      "name": "Button_840000845",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000957"
+      ]
+    },
+    {
+      "id": "840000847",
+      "name": "Button_840000847",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000959"
+      ]
+    },
+    {
+      "id": "840000849",
+      "name": "Button_840000849",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000966"
+      ]
+    },
+    {
+      "id": "840000851",
+      "name": "Button_840000851",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000962"
+      ]
+    },
+    {
+      "id": "840000914",
+      "name": "Button_840000914",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100129"
+      ]
+    },
+    {
+      "id": "840000971",
+      "name": "Button_840000971",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310100256"
+      ]
+    },
+    {
+      "id": "840001242",
+      "name": "Button_840001242",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144914522"
+      ]
+    },
+    {
+      "id": "840001597",
+      "name": "Button_840001597",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000944"
+      ]
+    },
+    {
+      "id": "840001606",
+      "name": "Button_840001606",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "840000947"
+      ]
+    },
+    {
+      "id": "840001695",
+      "name": "Button_840001695",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840001712",
+      "name": "Button_840001712",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840001715",
+      "name": "Button_840001715",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840001718",
+      "name": "Button_840001718",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840001721",
+      "name": "Button_840001721",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": []
+    },
+    {
+      "id": "840002107",
+      "name": "Button_840002107",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000072"
+      ]
+    },
+    {
+      "id": "840002109",
+      "name": "Button_840002109",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000076"
+      ]
+    },
+    {
+      "id": "840002113",
+      "name": "Button_840002113",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000079"
+      ]
+    },
+    {
+      "id": "840002114",
+      "name": "Button_840002114",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000082"
+      ]
+    },
+    {
+      "id": "840002117",
+      "name": "Button_840002117",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000084"
+      ]
+    },
+    {
+      "id": "840002118",
+      "name": "Button_840002118",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "620000087"
+      ]
+    },
+    {
+      "id": "840002263",
+      "name": "Button_840002263",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912917"
+      ]
+    },
+    {
+      "id": "2144912173",
+      "name": "Button_2144912173",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912040"
+      ]
+    },
+    {
+      "id": "2144912174",
+      "name": "Button_2144912174",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912038"
+      ]
+    },
+    {
+      "id": "2144912175",
+      "name": "Button_2144912175",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002009"
+      ]
+    },
+    {
+      "id": "2144912176",
+      "name": "Button_2144912176",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "310002014"
+      ]
+    },
+    {
+      "id": "2144912178",
+      "name": "Button_2144912178",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912611"
+      ]
+    },
+    {
+      "id": "2144912179",
+      "name": "Button_2144912179",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912612"
+      ]
+    },
+    {
+      "id": "2144912180",
+      "name": "Button_2144912180",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912613"
+      ]
+    },
+    {
+      "id": "2144912181",
+      "name": "Button_2144912181",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912597"
+      ]
+    },
+    {
+      "id": "2144912182",
+      "name": "Button_2144912182",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912599"
+      ]
+    },
+    {
+      "id": "2144912183",
+      "name": "Button_2144912183",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912601"
+      ]
+    },
+    {
+      "id": "2144912186",
+      "name": "Button_2144912186",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912347"
+      ]
+    },
+    {
+      "id": "2144912187",
+      "name": "Button_2144912187",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912349"
+      ]
+    },
+    {
+      "id": "2144912188",
+      "name": "Button_2144912188",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912351"
+      ]
+    },
+    {
+      "id": "2144912189",
+      "name": "Button_2144912189",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912353"
+      ]
+    },
+    {
+      "id": "2144912906",
+      "name": "Button_2144912906",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144912911"
+      ]
+    },
+    {
+      "id": "2144913276",
+      "name": "Button_2144913276",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913378"
+      ]
+    },
+    {
+      "id": "2144913283",
+      "name": "Button_2144913283",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913368"
+      ]
+    },
+    {
+      "id": "2144913288",
+      "name": "Button_2144913288",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913369"
+      ]
+    },
+    {
+      "id": "2144913292",
+      "name": "Button_2144913292",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913370"
+      ]
+    },
+    {
+      "id": "2144913296",
+      "name": "Button_2144913296",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913371"
+      ]
+    },
+    {
+      "id": "2144913300",
+      "name": "Button_2144913300",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913372"
+      ]
+    },
+    {
+      "id": "2144913304",
+      "name": "Button_2144913304",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913373"
+      ]
+    },
+    {
+      "id": "2144913308",
+      "name": "Button_2144913308",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913374"
+      ]
+    },
+    {
+      "id": "2144913312",
+      "name": "Button_2144913312",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913375"
+      ]
+    },
+    {
+      "id": "2144913316",
+      "name": "Button_2144913316",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913376"
+      ]
+    },
+    {
+      "id": "2144913320",
+      "name": "Button_2144913320",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913377"
+      ]
+    },
+    {
+      "id": "2144913324",
+      "name": "Button_2144913324",
+      "object_type": "cGUIButtonWidget",
+      "attributes": {},
+      "event_handlers": [
+        "2144913379"
+      ]
+    }
+  ],
+  "navigation_paths": [
+    {
+      "function_name": "gotoBriefing",
+      "source_file": "CampaignWF",
+      "target_page": "CampaignBriefing",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoNextPage",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoCredits",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMovies",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoConcepts",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactions",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoTrainingLevel",
+      "source_file": "FactionsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriendlist",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriends",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStats",
+      "source_file": "Profile2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGlobeSelect",
+      "source_file": "MainPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSave",
+      "source_file": "MainPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMP",
+      "source_file": "MainPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO",
+      "source_file": "MainPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoExtras",
+      "source_file": "MainPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriendmatch",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGametype",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStatistics",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeGametype",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeRandom",
+      "source_file": "FriendMatchPlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoBriefing",
+      "source_file": "CampaignT",
+      "target_page": "CampaignBriefing",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSave",
+      "source_file": "Main",
+      "target_page": "CutsceneIn",
+      "conditions": [],
+      "actions": [
+        "SelectedLevel = 1",
+        "SelectedCampaign = 1"
+      ]
+    },
+    {
+      "function_name": "gotoMP",
+      "source_file": "Main",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "MPProfileLoading = true"
+      ]
+    },
+    {
+      "function_name": "gotoGO",
+      "source_file": "Main",
+      "target_page": "GOPre",
+      "conditions": [],
+      "actions": [
+        "GOChanged = false",
+        "GOChangedMP = false",
+        "NameUndoBuffer = GetProfileName(SelectedSlot)"
+      ]
+    },
+    {
+      "function_name": "gotoExtras",
+      "source_file": "Main",
+      "target_page": "ExtrasPre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGlobeSelect",
+      "source_file": "Main",
+      "target_page": "Unlock",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoAny",
+      "source_file": "GametypePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriendmatch",
+      "source_file": "GametypePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGametype",
+      "source_file": "GametypePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "GametypePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStatistics",
+      "source_file": "GametypePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMain",
+      "source_file": "Start",
+      "target_page": "LoadCampaignData",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoBriefing",
+      "source_file": "CampaignS",
+      "target_page": "CampaignBriefing",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSave",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMP",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoExtras",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "GOPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "rename = true",
+        "MPText = GetProfileName(MPProfile)"
+      ]
+    },
+    {
+      "function_name": "gotoFriendlist",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriendmatch",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGametype",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStatistics",
+      "source_file": "ProfilePlayPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoBriefing",
+      "source_file": "CampaignAI",
+      "target_page": "CampaignBriefing",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoCredits",
+      "source_file": "Extras",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "isExiting = exitToCredits"
+      ]
+    },
+    {
+      "function_name": "gotoConcepts",
+      "source_file": "Extras",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "isExiting = exitToConcepts"
+      ]
+    },
+    {
+      "function_name": "gotoFactions",
+      "source_file": "Extras",
+      "target_page": "FactionsPre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoTrainingLevel",
+      "source_file": "Extras",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "yesNo = true"
+      ]
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "Friendlist",
+      "target_page": "Friend",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "Friendmatch",
+      "target_page": "Friend",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeGametype",
+      "source_file": "Friendmatch",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeRandom",
+      "source_file": "Friendmatch",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoAny",
+      "source_file": "Gametype",
+      "target_page": "Challenge",
+      "conditions": [],
+      "actions": [
+        "MPWhat = -1",
+        "MPLevel = 0",
+        "MPChallenging = true",
+        "MPChallenged = false"
+      ]
+    },
+    {
+      "function_name": "gotoIntro",
+      "source_file": "CampaignBriefing",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "doFMVid = 1",
+        "bExiting = true"
+      ]
+    },
+    {
+      "function_name": "gotoOutro",
+      "source_file": "CampaignBriefing",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "doFMVid = 2",
+        "bExiting = true"
+      ]
+    },
+    {
+      "function_name": "gotoNextPage",
+      "source_file": "Factions",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoBriefing",
+      "source_file": "CampaignIL",
+      "target_page": "CampaignBriefing",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriends",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStats",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeGametype",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoChallengeRandom",
+      "source_file": "FriendMatchPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "Levels",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "local iLevel = chosenLevel",
+        "iLevel = iLevel + assaultMaps",
+        "iLevel = iLevel + assaultMaps + skirmishMaps"
+      ]
+    },
+    {
+      "function_name": "gotoSave",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMP",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoExtras",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionS",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionWF",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionAI",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionIL",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionT",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionX",
+      "source_file": "MapPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "Profile",
+      "target_page": "Name",
+      "conditions": [],
+      "actions": [
+        "rename = true",
+        "MPText = GetProfileName(MPProfile)"
+      ]
+    },
+    {
+      "function_name": "gotoFriendlist",
+      "source_file": "Profile",
+      "target_page": "Friendlist",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMap",
+      "source_file": "Unlock",
+      "target_page": "Map",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "GO1Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "GO1Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "GO1Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "GO1Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "GO4",
+      "target_page": "Friend",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "GO4",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "yesNoMode = name"
+      ]
+    },
+    {
+      "function_name": "gotoFriends",
+      "source_file": "GO4",
+      "target_page": "FriendMatchPre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStats",
+      "source_file": "GO4",
+      "target_page": "Profile2Pre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "GO",
+      "target_page": "GO1Pre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "GO",
+      "target_page": "GO2Pre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "GO",
+      "target_page": "GO3",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "GO",
+      "target_page": "GO4Pre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriendmatch",
+      "source_file": "Play",
+      "target_page": "FriendMatchPlayPre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGametype",
+      "source_file": "Play",
+      "target_page": "GametypePre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "Play",
+      "target_page": "Search",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStatistics",
+      "source_file": "Play",
+      "target_page": "ProfilePlayPre",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoCredits",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMovies",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoConcepts",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactions",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoTrainingLevel",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSave",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoMP",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoExtras",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "ExtrasPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoSearch",
+      "source_file": "LevelsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": [
+        "local iLevel = chosenLevel",
+        "iLevel = iLevel + assaultMaps",
+        "iLevel = iLevel + assaultMaps + skirmishMaps"
+      ]
+    },
+    {
+      "function_name": "gotoAny",
+      "source_file": "LevelsPre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionS",
+      "source_file": "Map2",
+      "target_page": "CampaignS",
+      "conditions": [],
+      "actions": [
+        "SelectedLevel = 1"
+      ]
+    },
+    {
+      "function_name": "gotoFactionWF",
+      "source_file": "Map2",
+      "target_page": "CampaignWF",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionAI",
+      "source_file": "Map2",
+      "target_page": "CampaignAI",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionIL",
+      "source_file": "Map2",
+      "target_page": "CampaignIL",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionT",
+      "source_file": "Map2",
+      "target_page": "CampaignT",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFactionX",
+      "source_file": "Map2",
+      "target_page": "CampaignX",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoTraining",
+      "source_file": "Map2",
+      "target_page": "Training",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGlobeSelect",
+      "source_file": "Save",
+      "target_page": "VictoryMP",
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriends",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStats",
+      "source_file": "GO4Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriend",
+      "source_file": "NamePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoName",
+      "source_file": "NamePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoFriends",
+      "source_file": "NamePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoStats",
+      "source_file": "NamePre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO1",
+      "source_file": "GO2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO2",
+      "source_file": "GO2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO3",
+      "source_file": "GO2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    },
+    {
+      "function_name": "gotoGO4",
+      "source_file": "GO2Pre",
+      "target_page": null,
+      "conditions": [],
+      "actions": []
+    }
+  ],
+  "pages": [
+    {
+      "name": "CampaignWF",
+      "lua_file": "CampaignWF.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoBriefing",
+          "source_file": "CampaignWF",
+          "target_page": "CampaignBriefing",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Map2"
+      ],
+      "outgoing_paths": [
+        "CampaignBriefing"
+      ]
+    },
+    {
+      "name": "CampaignILLoading",
+      "lua_file": "CampaignILLoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "FactionsPre",
+      "lua_file": "FactionsPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoNextPage",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoCredits",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMovies",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoConcepts",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactions",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoTrainingLevel",
+          "source_file": "FactionsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Extras"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "NANDDialog",
+      "lua_file": "NANDDialog.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Unlocking",
+      "lua_file": "Unlocking.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignAILoading",
+      "lua_file": "CampaignAILoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Profile2Pre",
+      "lua_file": "Profile2Pre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoName",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriendlist",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO1",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriend",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriends",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStats",
+          "source_file": "Profile2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "GO4"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "MainPre",
+      "lua_file": "MainPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGlobeSelect",
+          "source_file": "MainPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSave",
+          "source_file": "MainPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMP",
+          "source_file": "MainPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO",
+          "source_file": "MainPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoExtras",
+          "source_file": "MainPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "FriendMatchPlayPre",
+      "lua_file": "FriendMatchPlayPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriendmatch",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGametype",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSearch",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStatistics",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriend",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeGametype",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeRandom",
+          "source_file": "FriendMatchPlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Play"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "PageStack",
+      "lua_file": "PageStack.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignT",
+      "lua_file": "CampaignT.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoBriefing",
+          "source_file": "CampaignT",
+          "target_page": "CampaignBriefing",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Map2"
+      ],
+      "outgoing_paths": [
+        "CampaignBriefing"
+      ]
+    },
+    {
+      "name": "CampaignTInfo",
+      "lua_file": "CampaignTInfo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Main",
+      "lua_file": "Main.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoSave",
+          "source_file": "Main",
+          "target_page": "CutsceneIn",
+          "conditions": [],
+          "actions": [
+            "SelectedLevel = 1",
+            "SelectedCampaign = 1"
+          ]
+        },
+        {
+          "function_name": "gotoMP",
+          "source_file": "Main",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "MPProfileLoading = true"
+          ]
+        },
+        {
+          "function_name": "gotoGO",
+          "source_file": "Main",
+          "target_page": "GOPre",
+          "conditions": [],
+          "actions": [
+            "GOChanged = false",
+            "GOChangedMP = false",
+            "NameUndoBuffer = GetProfileName(SelectedSlot)"
+          ]
+        },
+        {
+          "function_name": "gotoExtras",
+          "source_file": "Main",
+          "target_page": "ExtrasPre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGlobeSelect",
+          "source_file": "Main",
+          "target_page": "Unlock",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "ExtrasPre",
+        "Unlock",
+        "GOPre",
+        "CutsceneIn"
+      ]
+    },
+    {
+      "name": "PlayPre",
+      "lua_file": "PlayPre.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Loading",
+      "lua_file": "Loading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GametypePre",
+      "lua_file": "GametypePre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoAny",
+          "source_file": "GametypePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriendmatch",
+          "source_file": "GametypePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGametype",
+          "source_file": "GametypePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSearch",
+          "source_file": "GametypePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStatistics",
+          "source_file": "GametypePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Play"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "FMV",
+      "lua_file": "FMV.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Start",
+      "lua_file": "Start.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoMain",
+          "source_file": "Start",
+          "target_page": "LoadCampaignData",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "LoadCampaignData"
+      ]
+    },
+    {
+      "name": "CampaignS",
+      "lua_file": "CampaignS.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoBriefing",
+          "source_file": "CampaignS",
+          "target_page": "CampaignBriefing",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Map2"
+      ],
+      "outgoing_paths": [
+        "CampaignBriefing"
+      ]
+    },
+    {
+      "name": "Backgrounds",
+      "lua_file": "Backgrounds.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GOPre",
+      "lua_file": "GOPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoSave",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMP",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoExtras",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO1",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "GOPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Main"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "ProfilePlayPre",
+      "lua_file": "ProfilePlayPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoName",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "rename = true",
+            "MPText = GetProfileName(MPProfile)"
+          ]
+        },
+        {
+          "function_name": "gotoFriendlist",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriendmatch",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGametype",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSearch",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStatistics",
+          "source_file": "ProfilePlayPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Play"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "FrontendBW2",
+      "lua_file": "FrontendBW2.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Rematch",
+      "lua_file": "Rematch.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignAI",
+      "lua_file": "CampaignAI.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoBriefing",
+          "source_file": "CampaignAI",
+          "target_page": "CampaignBriefing",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Map2"
+      ],
+      "outgoing_paths": [
+        "CampaignBriefing"
+      ]
+    },
+    {
+      "name": "Friend",
+      "lua_file": "Friend.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Friendlist",
+        "Friendmatch",
+        "GO4"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Extras",
+      "lua_file": "Extras.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoCredits",
+          "source_file": "Extras",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "isExiting = exitToCredits"
+          ]
+        },
+        {
+          "function_name": "gotoConcepts",
+          "source_file": "Extras",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "isExiting = exitToConcepts"
+          ]
+        },
+        {
+          "function_name": "gotoFactions",
+          "source_file": "Extras",
+          "target_page": "FactionsPre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoTrainingLevel",
+          "source_file": "Extras",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "yesNo = true"
+          ]
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "FactionsPre"
+      ]
+    },
+    {
+      "name": "Friendlist",
+      "lua_file": "Friendlist.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriend",
+          "source_file": "Friendlist",
+          "target_page": "Friend",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Profile"
+      ],
+      "outgoing_paths": [
+        "Friend"
+      ]
+    },
+    {
+      "name": "WO",
+      "lua_file": "WO.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Name",
+      "lua_file": "Name.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Profile"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignTLoading",
+      "lua_file": "CampaignTLoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Defeat",
+      "lua_file": "Defeat.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Friendmatch",
+      "lua_file": "Friendmatch.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriend",
+          "source_file": "Friendmatch",
+          "target_page": "Friend",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeGametype",
+          "source_file": "Friendmatch",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeRandom",
+          "source_file": "Friendmatch",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "Friend"
+      ]
+    },
+    {
+      "name": "Gametype",
+      "lua_file": "Gametype.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoAny",
+          "source_file": "Gametype",
+          "target_page": "Challenge",
+          "conditions": [],
+          "actions": [
+            "MPWhat = -1",
+            "MPLevel = 0",
+            "MPChallenging = true",
+            "MPChallenged = false"
+          ]
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "Challenge"
+      ]
+    },
+    {
+      "name": "EntityInitialise",
+      "lua_file": "EntityInitialise.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignBriefing",
+      "lua_file": "CampaignBriefing.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoIntro",
+          "source_file": "CampaignBriefing",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "doFMVid = 1",
+            "bExiting = true"
+          ]
+        },
+        {
+          "function_name": "gotoOutro",
+          "source_file": "CampaignBriefing",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "doFMVid = 2",
+            "bExiting = true"
+          ]
+        }
+      ],
+      "incoming_paths": [
+        "CampaignAI",
+        "CampaignS",
+        "CampaignT",
+        "CampaignIL",
+        "CampaignWF"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "MPGlobal",
+      "lua_file": "MPGlobal.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "MPLoading",
+      "lua_file": "MPLoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Factions",
+      "lua_file": "Factions.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoNextPage",
+          "source_file": "Factions",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Saving",
+      "lua_file": "Saving.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "ConceptPre",
+      "lua_file": "ConceptPre.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignIL",
+      "lua_file": "CampaignIL.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoBriefing",
+          "source_file": "CampaignIL",
+          "target_page": "CampaignBriefing",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Map2"
+      ],
+      "outgoing_paths": [
+        "CampaignBriefing"
+      ]
+    },
+    {
+      "name": "Map",
+      "lua_file": "Map.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Unlock"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "FriendMatchPre",
+      "lua_file": "FriendMatchPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGO1",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriend",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoName",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriends",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStats",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeGametype",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoChallengeRandom",
+          "source_file": "FriendMatchPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "GO4"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO2",
+      "lua_file": "GO2.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Levels",
+      "lua_file": "Levels.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoSearch",
+          "source_file": "Levels",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "local iLevel = chosenLevel",
+            "iLevel = iLevel + assaultMaps",
+            "iLevel = iLevel + assaultMaps + skirmishMaps"
+          ]
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "MapPre",
+      "lua_file": "MapPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoSave",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMP",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoExtras",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionS",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionWF",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionAI",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionIL",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionT",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionX",
+          "source_file": "MapPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Profile",
+      "lua_file": "Profile.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoName",
+          "source_file": "Profile",
+          "target_page": "Name",
+          "conditions": [],
+          "actions": [
+            "rename = true",
+            "MPText = GetProfileName(MPProfile)"
+          ]
+        },
+        {
+          "function_name": "gotoFriendlist",
+          "source_file": "Profile",
+          "target_page": "Friendlist",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "Friendlist",
+        "Name"
+      ]
+    },
+    {
+      "name": "Movies",
+      "lua_file": "Movies.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Attract",
+      "lua_file": "Attract.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignWFInfo",
+      "lua_file": "CampaignWFInfo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Unlock",
+      "lua_file": "Unlock.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoMap",
+          "source_file": "Unlock",
+          "target_page": "Map",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Main"
+      ],
+      "outgoing_paths": [
+        "Map"
+      ]
+    },
+    {
+      "name": "GO1Pre",
+      "lua_file": "GO1Pre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGO1",
+          "source_file": "GO1Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "GO1Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "GO1Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "GO1Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "GO"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO4",
+      "lua_file": "GO4.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriend",
+          "source_file": "GO4",
+          "target_page": "Friend",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoName",
+          "source_file": "GO4",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "yesNoMode = name"
+          ]
+        },
+        {
+          "function_name": "gotoFriends",
+          "source_file": "GO4",
+          "target_page": "FriendMatchPre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStats",
+          "source_file": "GO4",
+          "target_page": "Profile2Pre",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "FriendMatchPre",
+        "Profile2Pre",
+        "Friend"
+      ]
+    },
+    {
+      "name": "GO",
+      "lua_file": "GO.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGO1",
+          "source_file": "GO",
+          "target_page": "GO1Pre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "GO",
+          "target_page": "GO2Pre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "GO",
+          "target_page": "GO3",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "GO",
+          "target_page": "GO4Pre",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "GO4Pre",
+        "GO2Pre",
+        "GO1Pre",
+        "GO3"
+      ]
+    },
+    {
+      "name": "CampaignWFLoading",
+      "lua_file": "CampaignWFLoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "DefeatMP",
+      "lua_file": "DefeatMP.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Play",
+      "lua_file": "Play.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriendmatch",
+          "source_file": "Play",
+          "target_page": "FriendMatchPlayPre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGametype",
+          "source_file": "Play",
+          "target_page": "GametypePre",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSearch",
+          "source_file": "Play",
+          "target_page": "Search",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStatistics",
+          "source_file": "Play",
+          "target_page": "ProfilePlayPre",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "ProfilePlayPre",
+        "GametypePre",
+        "FriendMatchPlayPre",
+        "Search"
+      ]
+    },
+    {
+      "name": "CampaignILInfo",
+      "lua_file": "CampaignILInfo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "SavingPostMP",
+      "lua_file": "SavingPostMP.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Logo",
+      "lua_file": "Logo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignSInfo",
+      "lua_file": "CampaignSInfo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "ChooseArmy",
+      "lua_file": "ChooseArmy.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "SavingPostSearch",
+      "lua_file": "SavingPostSearch.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO3",
+      "lua_file": "GO3.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "GO"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "ExtrasPre",
+      "lua_file": "ExtrasPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoCredits",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMovies",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoConcepts",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactions",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoTrainingLevel",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoSave",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoMP",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoExtras",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO1",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "ExtrasPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "Main"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "LoadMPData",
+      "lua_file": "LoadMPData.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "LevelsPre",
+      "lua_file": "LevelsPre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoSearch",
+          "source_file": "LevelsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": [
+            "local iLevel = chosenLevel",
+            "iLevel = iLevel + assaultMaps",
+            "iLevel = iLevel + assaultMaps + skirmishMaps"
+          ]
+        },
+        {
+          "function_name": "gotoAny",
+          "source_file": "LevelsPre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Map2",
+      "lua_file": "Map2.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFactionS",
+          "source_file": "Map2",
+          "target_page": "CampaignS",
+          "conditions": [],
+          "actions": [
+            "SelectedLevel = 1"
+          ]
+        },
+        {
+          "function_name": "gotoFactionWF",
+          "source_file": "Map2",
+          "target_page": "CampaignWF",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionAI",
+          "source_file": "Map2",
+          "target_page": "CampaignAI",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionIL",
+          "source_file": "Map2",
+          "target_page": "CampaignIL",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionT",
+          "source_file": "Map2",
+          "target_page": "CampaignT",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFactionX",
+          "source_file": "Map2",
+          "target_page": "CampaignX",
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoTraining",
+          "source_file": "Map2",
+          "target_page": "Training",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "CampaignAI",
+        "CampaignS",
+        "CampaignT",
+        "Training",
+        "CampaignIL",
+        "CampaignWF",
+        "CampaignX"
+      ]
+    },
+    {
+      "name": "Music",
+      "lua_file": "Music.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "YesNoDialog",
+      "lua_file": "YesNoDialog.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CutsceneIn",
+      "lua_file": "CutsceneIn.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Main"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CutsceneOut",
+      "lua_file": "CutsceneOut.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "StartPre",
+      "lua_file": "StartPre.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Save",
+      "lua_file": "Save.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGlobeSelect",
+          "source_file": "Save",
+          "target_page": "VictoryMP",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": [
+        "VictoryMP"
+      ]
+    },
+    {
+      "name": "CampaignBriefing1st",
+      "lua_file": "CampaignBriefing1st.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CreditsPre",
+      "lua_file": "CreditsPre.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "LoadCampaignData",
+      "lua_file": "LoadCampaignData.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Start"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GlobeSelect",
+      "lua_file": "GlobeSelect.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO4Pre",
+      "lua_file": "GO4Pre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGO1",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriend",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoName",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriends",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStats",
+          "source_file": "GO4Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "GO"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignSLoading",
+      "lua_file": "CampaignSLoading.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO1",
+      "lua_file": "GO1.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GStringID",
+      "lua_file": "GStringID.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "CampaignAIInfo",
+      "lua_file": "CampaignAIInfo.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "SpriteTravel",
+      "lua_file": "SpriteTravel.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "VictoryMP",
+      "lua_file": "VictoryMP.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Save"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Challenge",
+      "lua_file": "Challenge.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Gametype"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Victory",
+      "lua_file": "Victory.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Global",
+      "lua_file": "Global.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Search",
+      "lua_file": "Search.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [
+        "Play"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "NamePre",
+      "lua_file": "NamePre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoFriend",
+          "source_file": "NamePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoName",
+          "source_file": "NamePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoFriends",
+          "source_file": "NamePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoStats",
+          "source_file": "NamePre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "MapPost",
+      "lua_file": "MapPost.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Game",
+      "lua_file": "Game.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "GO2Pre",
+      "lua_file": "GO2Pre.lua",
+      "buttons": [],
+      "navigation_functions": [
+        {
+          "function_name": "gotoGO1",
+          "source_file": "GO2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO2",
+          "source_file": "GO2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO3",
+          "source_file": "GO2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        },
+        {
+          "function_name": "gotoGO4",
+          "source_file": "GO2Pre",
+          "target_page": null,
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "incoming_paths": [
+        "GO"
+      ],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Campaign",
+      "lua_file": "Campaign.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    },
+    {
+      "name": "Message",
+      "lua_file": "Message.lua",
+      "buttons": [],
+      "navigation_functions": [],
+      "incoming_paths": [],
+      "outgoing_paths": []
+    }
+  ],
+  "navigation_graph": {
+    "nodes": [
+      {
+        "id": "CampaignWF",
+        "label": "CampaignWF",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignILLoading",
+        "label": "CampaignILLoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "FactionsPre",
+        "label": "FactionsPre",
+        "type": "page",
+        "function_count": 6,
+        "button_count": 0
+      },
+      {
+        "id": "NANDDialog",
+        "label": "NANDDialog",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Unlocking",
+        "label": "Unlocking",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignAILoading",
+        "label": "CampaignAILoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Profile2Pre",
+        "label": "Profile2Pre",
+        "type": "page",
+        "function_count": 9,
+        "button_count": 0
+      },
+      {
+        "id": "MainPre",
+        "label": "MainPre",
+        "type": "page",
+        "function_count": 5,
+        "button_count": 0
+      },
+      {
+        "id": "FriendMatchPlayPre",
+        "label": "FriendMatchPlayPre",
+        "type": "page",
+        "function_count": 7,
+        "button_count": 0
+      },
+      {
+        "id": "PageStack",
+        "label": "PageStack",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignT",
+        "label": "CampaignT",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignTInfo",
+        "label": "CampaignTInfo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Main",
+        "label": "Main",
+        "type": "page",
+        "function_count": 5,
+        "button_count": 0
+      },
+      {
+        "id": "PlayPre",
+        "label": "PlayPre",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Loading",
+        "label": "Loading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GametypePre",
+        "label": "GametypePre",
+        "type": "page",
+        "function_count": 5,
+        "button_count": 0
+      },
+      {
+        "id": "FMV",
+        "label": "FMV",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Start",
+        "label": "Start",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignS",
+        "label": "CampaignS",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "Backgrounds",
+        "label": "Backgrounds",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GOPre",
+        "label": "GOPre",
+        "type": "page",
+        "function_count": 8,
+        "button_count": 0
+      },
+      {
+        "id": "ProfilePlayPre",
+        "label": "ProfilePlayPre",
+        "type": "page",
+        "function_count": 6,
+        "button_count": 0
+      },
+      {
+        "id": "FrontendBW2",
+        "label": "FrontendBW2",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Rematch",
+        "label": "Rematch",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignAI",
+        "label": "CampaignAI",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "Friend",
+        "label": "Friend",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Extras",
+        "label": "Extras",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "Friendlist",
+        "label": "Friendlist",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "WO",
+        "label": "WO",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Name",
+        "label": "Name",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignTLoading",
+        "label": "CampaignTLoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Defeat",
+        "label": "Defeat",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Friendmatch",
+        "label": "Friendmatch",
+        "type": "page",
+        "function_count": 3,
+        "button_count": 0
+      },
+      {
+        "id": "Gametype",
+        "label": "Gametype",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "EntityInitialise",
+        "label": "EntityInitialise",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignBriefing",
+        "label": "CampaignBriefing",
+        "type": "page",
+        "function_count": 2,
+        "button_count": 0
+      },
+      {
+        "id": "MPGlobal",
+        "label": "MPGlobal",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "MPLoading",
+        "label": "MPLoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Factions",
+        "label": "Factions",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "Saving",
+        "label": "Saving",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "ConceptPre",
+        "label": "ConceptPre",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignIL",
+        "label": "CampaignIL",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "Map",
+        "label": "Map",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "FriendMatchPre",
+        "label": "FriendMatchPre",
+        "type": "page",
+        "function_count": 10,
+        "button_count": 0
+      },
+      {
+        "id": "GO2",
+        "label": "GO2",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Levels",
+        "label": "Levels",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "MapPre",
+        "label": "MapPre",
+        "type": "page",
+        "function_count": 10,
+        "button_count": 0
+      },
+      {
+        "id": "Profile",
+        "label": "Profile",
+        "type": "page",
+        "function_count": 2,
+        "button_count": 0
+      },
+      {
+        "id": "Movies",
+        "label": "Movies",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Attract",
+        "label": "Attract",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignWFInfo",
+        "label": "CampaignWFInfo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Unlock",
+        "label": "Unlock",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "GO1Pre",
+        "label": "GO1Pre",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "GO4",
+        "label": "GO4",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "GO",
+        "label": "GO",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignWFLoading",
+        "label": "CampaignWFLoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "DefeatMP",
+        "label": "DefeatMP",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Play",
+        "label": "Play",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignILInfo",
+        "label": "CampaignILInfo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "SavingPostMP",
+        "label": "SavingPostMP",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Logo",
+        "label": "Logo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignSInfo",
+        "label": "CampaignSInfo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "ChooseArmy",
+        "label": "ChooseArmy",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "SavingPostSearch",
+        "label": "SavingPostSearch",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GO3",
+        "label": "GO3",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "ExtrasPre",
+        "label": "ExtrasPre",
+        "type": "page",
+        "function_count": 13,
+        "button_count": 0
+      },
+      {
+        "id": "LoadMPData",
+        "label": "LoadMPData",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "LevelsPre",
+        "label": "LevelsPre",
+        "type": "page",
+        "function_count": 2,
+        "button_count": 0
+      },
+      {
+        "id": "Map2",
+        "label": "Map2",
+        "type": "page",
+        "function_count": 7,
+        "button_count": 0
+      },
+      {
+        "id": "Music",
+        "label": "Music",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "YesNoDialog",
+        "label": "YesNoDialog",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CutsceneIn",
+        "label": "CutsceneIn",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CutsceneOut",
+        "label": "CutsceneOut",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "StartPre",
+        "label": "StartPre",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Save",
+        "label": "Save",
+        "type": "page",
+        "function_count": 1,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignBriefing1st",
+        "label": "CampaignBriefing1st",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CreditsPre",
+        "label": "CreditsPre",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "LoadCampaignData",
+        "label": "LoadCampaignData",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GlobeSelect",
+        "label": "GlobeSelect",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GO4Pre",
+        "label": "GO4Pre",
+        "type": "page",
+        "function_count": 8,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignSLoading",
+        "label": "CampaignSLoading",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GO1",
+        "label": "GO1",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GStringID",
+        "label": "GStringID",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "CampaignAIInfo",
+        "label": "CampaignAIInfo",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "SpriteTravel",
+        "label": "SpriteTravel",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "VictoryMP",
+        "label": "VictoryMP",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Challenge",
+        "label": "Challenge",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Victory",
+        "label": "Victory",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Global",
+        "label": "Global",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Search",
+        "label": "Search",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "NamePre",
+        "label": "NamePre",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "MapPost",
+        "label": "MapPost",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Game",
+        "label": "Game",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "GO2Pre",
+        "label": "GO2Pre",
+        "type": "page",
+        "function_count": 4,
+        "button_count": 0
+      },
+      {
+        "id": "Campaign",
+        "label": "Campaign",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      },
+      {
+        "id": "Message",
+        "label": "Message",
+        "type": "page",
+        "function_count": 0,
+        "button_count": 0
+      }
+    ],
+    "edges": [
+      {
+        "source": "CampaignWF",
+        "target": "CampaignBriefing",
+        "label": "gotoBriefing",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "CampaignT",
+        "target": "CampaignBriefing",
+        "label": "gotoBriefing",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Main",
+        "target": "CutsceneIn",
+        "label": "gotoSave",
+        "conditions": [],
+        "actions": [
+          "SelectedLevel = 1",
+          "SelectedCampaign = 1"
+        ]
+      },
+      {
+        "source": "Main",
+        "target": "GOPre",
+        "label": "gotoGO",
+        "conditions": [],
+        "actions": [
+          "GOChanged = false",
+          "GOChangedMP = false",
+          "NameUndoBuffer = GetProfileName(SelectedSlot)"
+        ]
+      },
+      {
+        "source": "Main",
+        "target": "ExtrasPre",
+        "label": "gotoExtras",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Main",
+        "target": "Unlock",
+        "label": "gotoGlobeSelect",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Start",
+        "target": "LoadCampaignData",
+        "label": "gotoMain",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "CampaignS",
+        "target": "CampaignBriefing",
+        "label": "gotoBriefing",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "CampaignAI",
+        "target": "CampaignBriefing",
+        "label": "gotoBriefing",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Extras",
+        "target": "FactionsPre",
+        "label": "gotoFactions",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Friendlist",
+        "target": "Friend",
+        "label": "gotoFriend",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Friendmatch",
+        "target": "Friend",
+        "label": "gotoFriend",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Gametype",
+        "target": "Challenge",
+        "label": "gotoAny",
+        "conditions": [],
+        "actions": [
+          "MPWhat = -1",
+          "MPLevel = 0",
+          "MPChallenging = true",
+          "MPChallenged = false"
+        ]
+      },
+      {
+        "source": "CampaignIL",
+        "target": "CampaignBriefing",
+        "label": "gotoBriefing",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Profile",
+        "target": "Name",
+        "label": "gotoName",
+        "conditions": [],
+        "actions": [
+          "rename = true",
+          "MPText = GetProfileName(MPProfile)"
+        ]
+      },
+      {
+        "source": "Profile",
+        "target": "Friendlist",
+        "label": "gotoFriendlist",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Unlock",
+        "target": "Map",
+        "label": "gotoMap",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO4",
+        "target": "Friend",
+        "label": "gotoFriend",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO4",
+        "target": "FriendMatchPre",
+        "label": "gotoFriends",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO4",
+        "target": "Profile2Pre",
+        "label": "gotoStats",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO",
+        "target": "GO1Pre",
+        "label": "gotoGO1",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO",
+        "target": "GO2Pre",
+        "label": "gotoGO2",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO",
+        "target": "GO3",
+        "label": "gotoGO3",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "GO",
+        "target": "GO4Pre",
+        "label": "gotoGO4",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Play",
+        "target": "FriendMatchPlayPre",
+        "label": "gotoFriendmatch",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Play",
+        "target": "GametypePre",
+        "label": "gotoGametype",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Play",
+        "target": "Search",
+        "label": "gotoSearch",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Play",
+        "target": "ProfilePlayPre",
+        "label": "gotoStatistics",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignS",
+        "label": "gotoFactionS",
+        "conditions": [],
+        "actions": [
+          "SelectedLevel = 1"
+        ]
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignWF",
+        "label": "gotoFactionWF",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignAI",
+        "label": "gotoFactionAI",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignIL",
+        "label": "gotoFactionIL",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignT",
+        "label": "gotoFactionT",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "CampaignX",
+        "label": "gotoFactionX",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Map2",
+        "target": "Training",
+        "label": "gotoTraining",
+        "conditions": [],
+        "actions": []
+      },
+      {
+        "source": "Save",
+        "target": "VictoryMP",
+        "label": "gotoGlobeSelect",
+        "conditions": [],
+        "actions": []
+      }
+    ]
+  }
+}
